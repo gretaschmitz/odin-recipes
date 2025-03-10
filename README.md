@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project for the Odin Project. The purpose is to demonstrate the basics of html that I have learned in their Foundations course. I have created a very simple website that shows off three dessert recipes that I took home from the DDR Museum in Berlin, Germany. These recipes are quite old, from the 1970-1980's, and were born from periods of food shortages and insecurity. It was fun to get to use them here. 
