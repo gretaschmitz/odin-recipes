@@ -1,0 +1,20 @@
+a:visited {
+    color: purple;
+}
+
+ul {
+    list-style-type: none
+}
+
+.recipe-card,
+.recipes-home {
+    background-color: #d7bcdf;
+}
+
+.button-home {
+    background-color: #72b1ef;
+}
+
+body {
+    font-family: "Verdana", sans-serif;
+}
