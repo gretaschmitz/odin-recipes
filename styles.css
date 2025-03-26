@@ -41,3 +41,9 @@ body {
     width: 200px;
     vertical-align: top;
 }
+
+img.strudel {
+    max-width: 35%;
+    min-width: 300px;
+    height: auto;
+}
