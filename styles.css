@@ -1,20 +1,43 @@
-a:visited {
-    color: purple;
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+button.recipe {
+    display: inline;
+    padding: 10px;
+    margin: 10px;
+    background-color: #72b1ef;
 }
 
 ul {
     list-style-type: none
 }
 
+p.home-intro {
+    padding: 10px;
+}
+
 .recipe-card,
 .recipes-home {
     background-color: #d7bcdf;
+    padding: 10px;
+    margin: 20px 20px;
+    box-shadow: 15px 15px 5px #c06dda;
 }
 
 .button-home {
     background-color: #72b1ef;
+    padding: 8px;
 }
 
 body {
     font-family: "Verdana", sans-serif;
+}
+
+.ingredients-sub {
+    display: inline-block;
+    width: 200px;
+    vertical-align: top;
 }
